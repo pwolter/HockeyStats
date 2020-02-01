@@ -16,7 +16,7 @@ I have used the following files:
 - **player_info.csv** Player information
 - **game_skater_stats.csv** Player stats, goals, shots, penalty minutes, etc.
 - **game_goalie_stats.csv** Goalie stats, save percentage, saves, etc.
-- **game.csv** Game stats, season, away/hoem goals, etc.
+- **game.csv** Game stats, season, away/home goals, etc.
 
 # Credits
 
